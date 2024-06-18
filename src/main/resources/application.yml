@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: proxy_server
+proxy:
+  path: http://localhost:5000
