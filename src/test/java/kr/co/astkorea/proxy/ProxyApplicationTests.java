@@ -1,10 +1,10 @@
-package com.proxy;
+package kr.co.astkorea.proxy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProxyServerApplicationTests {
+class ProxyApplicationTests {
 
 	@Test
 	void contextLoads() {

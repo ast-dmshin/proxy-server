@@ -1,4 +1,4 @@
-package com.proxy;
+package kr.co.astkorea.proxy.http;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

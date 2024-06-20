@@ -1,4 +1,4 @@
-package com.proxy;
+package kr.co.astkorea.proxy.http;
 
 import org.apache.hc.client5.http.ClientProtocolException;
 import org.apache.hc.client5.http.classic.methods.HttpGet;

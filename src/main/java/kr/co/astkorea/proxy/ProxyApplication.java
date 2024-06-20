@@ -1,13 +1,13 @@
-package com.proxy;
+package kr.co.astkorea.proxy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ProxyServerApplication {
+public class ProxyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ProxyServerApplication.class, args);
+		SpringApplication.run(ProxyApplication.class, args);
 	}
 
 }
